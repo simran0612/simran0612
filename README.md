@@ -1,7 +1,7 @@
 ![logo](https://github.com/simran0612/simran0612/blob/main/Simran%20Chawla%20(2).png?raw=true)
 <h1 align="center">Hi 👋, I'm Simran Chawla</h1>
 <h3 align="center">A passionate engineer from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Isha_&psig=AOvVaw3liVnmnLGZZhWyMjXsMDYc&ust=1687761572766000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiH4vnn3f8CFQAAAAAdAAAAABAF)”>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran0612&label=Profile%20views&color=0e75b6&style=flat" alt="simran0612" /> </p>
 
 - 🔭 I’m currently working on **Frontend Web Development**
